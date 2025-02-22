@@ -30,7 +30,9 @@ Siempre estoy buscando aprender y mejorar. Actualmente, estoy explorando:
 
 ## Proyectos destacados 🚀
 
-Aunque ahora no tengo proyectos específicos aquí, siempre estoy trabajando en nuevas ideas y mejoras. ¡Pronto habrá más!
+[Uno de mis primeros proyectos con boostrap](https://github.com/Cesarius12/Sabores-Aranjuez-Bootstrap)
+[JabonesScarlatti con PHP](https://github.com/Cesarius12/JabonesScarlatti)
+[Tranajo gestiona FCTS] En proceso...
 
 ## Contacto 📬
 
@@ -43,4 +45,6 @@ Si quieres conectarte conmigo o tienes alguna pregunta, no dudes en enviarme un 
 
 **¡Gracias por visitar mi perfil!** 🙏  
 Si te interesa colaborar en proyectos, aprender algo nuevo o simplemente charlar sobre tecnología, ¡estoy abierto a nuevas oportunidades! 🌱
+
+
 
