@@ -36,9 +36,8 @@ Aunque ahora no tengo proyectos específicos aquí, siempre estoy trabajando en 
 
 Si quieres conectarte conmigo o tienes alguna pregunta, no dudes en enviarme un mensaje. Aquí están mis redes sociales y formas de contacto:
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tu-cuenta)
-- [Correo electrónico](mailto:tu-email@dominio.com)
+- [LinkedIn](www.linkedin.com/in/césar-barba-fernández)
+- [Correo electrónico](cesarbarba1202@gmail.com)
 
 ---
 
