@@ -30,9 +30,11 @@ Siempre estoy buscando aprender y mejorar. Actualmente, estoy explorando:
 
 ## Proyectos destacados 🚀
 
-[Uno de mis primeros proyectos con boostrap](https://github.com/Cesarius12/Sabores-Aranjuez-Bootstrap).
-[JabonesScarlatti con PHP](https://github.com/Cesarius12/JabonesScarlatti).
-Gestiona FCTS En proceso...
+-[Uno de mis primeros proyectos con boostrap](https://github.com/Cesarius12/Sabores-Aranjuez-Bootstrap).
+
+-[JabonesScarlatti con PHP](https://github.com/Cesarius12/JabonesScarlatti).
+
+-Gestiona FCTS En proceso...
 
 ## Contacto 📬
 
