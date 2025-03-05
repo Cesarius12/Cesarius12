@@ -41,7 +41,7 @@ Siempre estoy buscando aprender y mejorar. Actualmente, estoy explorando:
 Si quieres conectarte conmigo o tienes alguna pregunta, no dudes en enviarme un mensaje. Aquí están mis redes sociales y formas de contacto:
 
 - [LinkedIn](https://www.linkedin.com/in/césar-barba-fernández)
-- [Correo electrónico](mailto:cesarbarba1202@gmail.com)
+- Correo electrónico: <cesarbarba1202@gmail.com>
 
 ---
 
