@@ -6,6 +6,7 @@ Soy un desarrollador web con experiencia en diversas tecnologías y un constante
 
 Aquí tienes algunas de las tecnologías con las que he trabajado:
 
+- **Spring boot**: Desarrollo de aplicaciones del lado del servidor. 🔧
 - **Node.js**: Desarrollo de aplicaciones del lado del servidor. 🌍
 - **JavaScript**: Para crear interactividad y lógica en el navegador. ⚡
 - **JSON**: Manejo de datos entre el cliente y el servidor. 📦
